@@ -15,3 +15,4 @@ From time to time, I will sort out some notes and write them in the remarks. As 
 |2-4|除夕，鸽了|新年快乐!!| |
 |2-5|大年初一，鸽了|新年快乐!!| |
 |2-6|[web crawl](https://github.com/aosabook/500lines/tree/master/crawler)| |python|
+|2-6|[xml](http://www.runoob.com/xml/xml-tutorial.html)|
