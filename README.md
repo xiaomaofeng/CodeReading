@@ -20,3 +20,4 @@ From time to time, I will sort out some notes and write them in the remarks. As 
 |2-9|[I am a Dove](https://cn.bing.com/images/search?view=detailV2&ccid=pRm9SOVN&id=7094AA422351C2B9BB4320C16CDD73DF57D1EBD8&thid=OIP.pRm9SOVN1vUeeHqXFjn_zwHaJC&mediaurl=http%3a%2f%2fwww.fuhaodq.com%2fd%2ffile%2fweixinbq%2f2017-04-07%2f713803a8957d87b238b513c76c40592c.jpg&exph=250&expw=205&q=%E9%B8%BD%E5%AD%90+%E8%A1%A8%E6%83%85%E5%8C%85&simid=608015562141076925&selectedIndex=0&ajaxhist=0) | | |
 |2-10|[leetcode](https://leetcode-cn.com)| |algorithm|
 |2-11|[w3school](http://www.w3school.com.cn/)| |web|
+|2-12|Data Structure| |algorithm|
