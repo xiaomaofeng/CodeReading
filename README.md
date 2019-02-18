@@ -25,4 +25,5 @@ From time to time, I will sort out some notes and write them in the remarks. As 
 |2-14|[Python Programming](https://www.icourse163.org/learn/BIT-268001?tid=1003243006#/learn/announce)| |python|
 |2-15|Data Structure| |algorithm|
 |2-16|Data Structure| |algorithm|
-|2-17|[os](https://www.icourse163.org/course/NJU-1001571004)| | |
+|2-17|[os](https://www.icourse163.org/course/NJU-1001571004)| |cs|
+|2-18|Compiling principle| |cs|
