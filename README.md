@@ -27,3 +27,5 @@ From time to time, I will sort out some notes and write them in the remarks. As 
 |2-16|Data Structure| |algorithm|
 |2-17|[os](https://www.icourse163.org/course/NJU-1001571004)| |cs|
 |2-18|Compiling principle| |cs|
+|2-19|
+|2-20|
