@@ -38,4 +38,8 @@ From time to time, I will sort out some notes and write them in the remarks. As 
 |2-27|
 |2-28|
 |3-01|
+|3-02|
+|3-03|
+|3-04|
+|3-05|[成员运算符"."和间接成员运算符"->"的区别](https://blog.csdn.net/qq_37018328/article/details/77816950)|Language Foundation|C|
 
