@@ -27,7 +27,7 @@ From time to time, I will sort out some notes and write them in the remarks. As 
 |2-16|Data Structure| |algorithm|
 |2-17|[os](https://www.icourse163.org/course/NJU-1001571004)| |cs|
 |2-18|Compiling principle| |cs|
-|2-19|
+|2-19|接下来一段时间可能会没有时间更新：因为 临近毕业了，有些事情要做。|
 |2-20|
 |2-21|
 |2-22|
