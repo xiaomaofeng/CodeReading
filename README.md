@@ -44,3 +44,11 @@ From time to time, I will sort out some notes and write them in the remarks. As 
 |3-05|[成员运算符"."和间接成员运算符"->"的区别](https://blog.csdn.net/qq_37018328/article/details/77816950)|Language Foundation|C|、
 |3-06|
 |3-07|[C++的继承，重载，隐藏和覆盖](https://www.jianshu.com/p/97d8dbded0fb)|C++ Primer Plus第六版，看完应该会花点时间，但是这是有必要及重要意义的|C++|
+|3-08|
+|3-09|
+|3-10|
+|3-11|
+|3-12|
+|3-13|
+|3-14|
+|3-15|
