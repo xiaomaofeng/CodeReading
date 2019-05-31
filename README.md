@@ -34,3 +34,5 @@ From time to time, I will sort out some notes and write them in the remarks. As 
 |4-09|[实验楼](https://www.shiyanlou.com/)| | |
 |4-23| |临近毕业，努力求职ing..|
 |4-23|[十大经典排序算法动画与解析](https://mp.weixin.qq.com/s/vn3KiV-ez79FmbZ36SX9lg)|sort algorithm|c++|
+|5-31|[两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/solution/shuang-zhi-zhen-by-powcai/
+)| |algorithm|
