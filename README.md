@@ -36,4 +36,4 @@ From time to time, I will sort out some notes and write them in the remarks. As 
 |4-23 |[十大经典排序算法动画与解析](https://mp.weixin.qq.com/s/vn3KiV-ez79FmbZ36SX9lg)|sort algorithm|c++|
 |5-31 |[寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)| |algorithm|
 |10.16|[MFC的消息循环](http://blog.sina.com.cn/s/blog_a2aa00d70101im9b.html)| |MFC|
-|12.30|[Message Process(Add HotKey)](https://stackoverflow.com/questions/3568513/how-to-create-keyboard-shortcut-in-windows-that-call-function-in-my-app)| |C#|
+|12.30|[Message Process(Add HotKey)](https://stackoverflow.com/questions/3568513/how-to-create-keyboard-shortcut-in-windows-that-call-function-in-my-app)|when lost focus in your application, you must to unregisterHotkey, overwise you may can not get keyboard message when you lost focus in your application|C#|
